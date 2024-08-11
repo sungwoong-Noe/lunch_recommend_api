@@ -10,5 +10,4 @@ public class Test {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long testId;
-
 }
